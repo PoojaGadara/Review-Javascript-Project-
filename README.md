@@ -2,6 +2,7 @@
 **Review Project**
 
 This project is a simple web application for displaying reviews from different users. It allows users to navigate through reviews, view them randomly, and see the details of each reviewer.
+
 ![image](https://github.com/PoojaGadara/Review-Javascript-Project-/assets/100752133/0bc8f62a-ab56-4b71-b8ad-fd38e0b8f0f7)
 
 **Features**
