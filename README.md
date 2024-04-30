@@ -22,7 +22,7 @@ Git: Version control system for tracking changes in the project.
 **Setup**
 
 To run this project locally, follow these steps:
-Clone this repository to your local machine using git clone https://github.com/your-username/review-project.git.
+Clone this repository to your local machine using git clone [https://github.com/your-username/review-project.git.](https://github.com/PoojaGadara/Review-Javascript-Project-.git)
 Navigate to the project directory using cd review-project.
 Open the index.html file in your web browser to view the application.
 Usage
